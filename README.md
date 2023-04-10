@@ -4,18 +4,14 @@
 - Correo-e: ainare.arbiol.martinez@gmail.com)
 - Linkedin: https://www.linkedin.com/in/ainara-a-martinez/)
 - localidad: Madrid
+
 ## SOBRE MÍ
 
 He realizado recientemente un Bootcamp de Desarrollo Web Fullstack porque siempre que puedo estoy aprendiendo cosas nuevas por mi misma, soy entusiasta con los nuevos retos que me depara la vida, empatizo con las personas y eso me lleva a ser solidaria y a colaborar de voluntaria en una ONG, me encanta dialogar, reflexionar y sentir que hay muchas formasde ver y de entender el mundo.
 
-## COMPETENCIAS DIGITALES
-
-Creación de páginas web con WordPress Nivel intermedio - avanzado de los sistemas operativos (Windows,Mac OS y Linux) Usuaria habitual de Internet programas de Microsoft y canvas Creacin y manejo de mquinas virtuales (VirtualBox) Web Hosting Resolucin de problemas Comunicacin Responsabilidad en el trabajo Competencias desarrolladas para trabajar de forma significativa, constructiva y solidaria.
-
 ## MI EXPERIENCIA PROFESIONAL
 
-### 2022-
-actualmente   – EME.SALDEV (B2B) Freelance
+### 2022- actualmente – EME.SALDEV (B2B) Freelance
                 Actualmente estoy desarrollando e impartiendo talleres de WordPress,donde pongo en práctica la metodología scrumban para trabajar con la
                 mayor eficiencia y eficacia para mejorar los tiempos de desarrollo, además de coordinar los trabajos con mi equipo, también gestiono las
                 relaciones técnico/comerciales con los clientes, además de configurar y gestionar los hosting compartidos.
@@ -75,4 +71,11 @@ actualmente   – EME.SALDEV (B2B) Freelance
                 
 ### 2015-2016 - U.N.E.D.
                 Certificado de acceso a la universidad en humanidades
+                
+                
+## COMPETENCIAS DIGITALES
+
+Creación de páginas web con WordPress Nivel intermedio - avanzado de los sistemas operativos (Windows,Mac OS y Linux) Usuaria habitual de Internet programas de Microsoft y canvas Creacin y manejo de mquinas virtuales (VirtualBox) Web Hosting Resolucin de problemas Comunicacin Responsabilidad en el trabajo Competencias desarrolladas para trabajar de forma significativa, constructiva y solidaria.
+
+
 
