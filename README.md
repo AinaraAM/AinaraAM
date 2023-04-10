@@ -4,22 +4,26 @@
 - Correo-e: ainare.arbiol.martinez@gmail.com)
 - Linkedin: https://www.linkedin.com/in/ainara-a-martinez/)
 - localidad: Madrid
+## SOBRE MÍ
 
-## MI PERFIL
+He realizado recientemente un Bootcamp de Desarrollo Web Fullstack porque siempre que puedo estoy aprendiendo cosas nuevas por mi misma, soy entusiasta con los nuevos retos que me depara la vida, empatizo con las personas y eso me lleva a ser solidaria y a colaborar de voluntaria en una ONG, me encanta dialogar, reflexionar y sentir que hay muchas formasde ver y de entender el mundo.
 
-Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialogante y reflexiva. Estoy abierta a nuevos aprendizajes. Tengo más de 20 años de experiencia en el trato y atención al usuario: ayudando, asesorando y formando en las TIC, los tres años últimos años formando y concienciando sobre las las barreras y recursos para la comunidad trans.
+## COMPETENCIAS DIGITALES
 
-## MIS HABILIDADES
-
-- Gestión de personas y recursos
-- Realización de documentación
-- Uso y administración de Wordpress
-- Uso de Word, Excel y Powerpoint
-- Formadora psicosocial
-- Instaladora eléctricista de viviendas
-- Carné de conducir B
+Creación de páginas web con WordPress Nivel intermedio - avanzado de los sistemas operativos (Windows,Mac OS y Linux) Usuaria habitual de Internet programas de Microsoft y canvas Creacin y manejo de mquinas virtuales (VirtualBox) Web Hosting Resolucin de problemas Comunicacin Responsabilidad en el trabajo Competencias desarrolladas para trabajar de forma significativa, constructiva y solidaria.
 
 ## MI EXPERIENCIA PROFESIONAL
+
+### 2022-
+actualmente   – EME.SALDEV (B2B) Freelance
+                Actualmente estoy desarrollando e impartiendo talleres de WordPress,donde pongo en práctica la metodología scrumban para trabajar con la
+                mayor eficiencia y eficacia para mejorar los tiempos de desarrollo, además de coordinar los trabajos con mi equipo, también gestiono las
+                relaciones técnico/comerciales con los clientes, además de configurar y gestionar los hosting compartidos.
+                
+### 2022      - PRACTICAS EN BOOTCAMP FULLSTACK WEB DEVELOPER CON GOOGLE iMPACT CHALLENGE / FACTORÍA F5
+                Desarrollé proyectos en distintos roles: desarrollo web, scrum master, product owner
+                Las tecnológias que he practicado con mas asiduidad han sido Symfony, SQL, React, HTML5 y CSS3 
+
 ### 2022      - GRUPO KONECTA (B2C)
                 Atención al cliente MásMóvil
                 Gestión de alta y bajas en servicios contratados, información de facturas y del estado de servicios, gestión de reclamaciones.
@@ -57,9 +61,10 @@ Soy empática, autodidacta, entusiasta, responsable, altruista, solidaria, dialo
                 Soporte técnico de los fabricantes Linksys y Pinnacle systems en instalación, configuración y alfabetización en el uso del producto.
 
 ## MI FORMACIÓN
+
 ###    2022   - GOOGLE IMPACT CHALLENGE / FACTORÍA F5
                 BootCamp FullStack Web Developer (850hs)
-                HTML | CSS | Javascript | BootStrap | React | NodeJs | Python / Django | PHP | Symfony | SQL | Git | Figma | Trello | Bash | Metodologías                   Ágiles | Visual Studio Code | PyCharm | Miro | Notion | 
+                HTML5 | CSS3 | Javascript | BootStrap | React | Django | Symfony | SQL | Git | Figma | Trello | Bash | Metodologías agile | Visual Studio                   Code | PyCharm | PHPStorm | Miro | Notion | 
               
 ### 2020-2021 - CAMPUS FP
                 Certificado de profesionalidad en gestión del pequeño comercio (530hs)
