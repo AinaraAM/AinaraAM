@@ -1,7 +1,5 @@
 # Ainara Arbiol Martínez
 
-- Tlf. 691927587
-- Correo-e: ainare.arbiol.martinez@gmail.com)
 - Linkedin: https://www.linkedin.com/in/ainara-a-martinez/)
 - localidad: Madrid
 
